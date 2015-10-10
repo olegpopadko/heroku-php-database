@@ -1,7 +1,6 @@
 {
-    "name": "olegpopadko/heroku-php-database",
+    "name": "olegpopadko/composer-heroku-database-environment",
     "description": "Simple connect to herokupostgres for php-applications",
-    "type": "library",
     "require-dev": {
         "phpunit/phpunit": "~4.8",
         "composer/composer": "1.0.*@dev"
