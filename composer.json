@@ -1,0 +1,22 @@
+{
+    "name": "olegpopadko/heroku-php-database",
+    "description": "Simple connect to herokupostgres for php-applications",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "~4.8",
+        "composer/composer": "1.0.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Popadko",
+            "email": "oleg@popadko.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
